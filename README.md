@@ -3,7 +3,7 @@ README: VIA-Cervical Cancer Classification & Segmentation
 2. Setup (Google Colab Recommended)
   2.1 HardwareRequirement: Must use a GPU Accelerator (T4 or V100) for training speed.
   2.2 Data Paths (CRITICAL)The code requires the data folder structure to be set up on Google Drive exactly like this:Mount Drive: Run the standard cell to mount your Google Drive.
-   2.3 Organize files like this:
+   Organize files like this:
    /content/drive/MyDrive/
     .../AI-ML-Health-Project/data/
         - IARCImageBankVIA/
