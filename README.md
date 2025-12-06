@@ -38,10 +38,13 @@ All necessary Python packages are standard in a Colab environment:
 ## 4. How to Run
 
 ### 4.1 Demo
-Run **The demo** for a demonstration, or run **IARC classifier** to show model selection is optimal with EfficientNetB0
+Run **demo.ipynb** for example input/outputs of the final classifier and segmentation models.
 
-### 4.2 Classification
-Run **JHPiego_IARC classifier** next for the classification engine.
+### 4.2 IARC Classification
+Run **IARC_classifier.ipynb** for classification on IARC dataset (shows EfficientNetB0 is optimal).
 
-### 4.3 Segmentation
-Run **JHPiego_segmentation** notebook for the segmentation.
+### 4.3 Combined Classification
+Run **jhpiego_iarc_classifier.ipynb** for the combined JHPiego and IARC classification engine.
+
+### 4.4 Segmentation
+Run **jhpiego_segmentation.ipynb** for lesion segmentation.
